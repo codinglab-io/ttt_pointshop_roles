@@ -30,5 +30,5 @@ TTTPS_Config.MaxTPassesPerRound = 0.5
 TTTPS_Config.MaxDPassesPerRound = 0.5
 
 -- The pricing of the items for Pointshop
-TTTPS_Config.TPassPrice = 500
-TTTPS_Config.DPassPrice = 500
+TTTPS_Config.TPassPrice = 40
+TTTPS_Config.DPassPrice = 20
